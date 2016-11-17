@@ -5,6 +5,7 @@
 - Given a bunch of strings in `argv`, store them sorted alphabetically in an array.
 
 **Scoring**: Total bytes of code.
+**Leader**: Nick B., 115 bytes.
 
 ## Code Golf - Open Division (Any language, standard libraries)
 
@@ -19,7 +20,7 @@
 
 ## Vim Golf
 
-- Correct the first 50 common misspellings (accomodate to idiosyncracy) from the [Oxford Living Dictionary's list](https://en.oxforddictionaries.com/spelling/common-misspellings).
+- Correct the first 50 common misspellings (from `accomodate` to `idiosyncracy`) from the [Oxford Living Dictionary's list](https://en.oxforddictionaries.com/spelling/common-misspellings).
     - A file of them can be found [here](challenges/vim.txt).
 
 **Scoring**: Total bytes of code.
@@ -36,7 +37,7 @@
         - The stuff top right.
         - The microphone widget thing.
 
-**Scoring**: Total bytes of code.
+**Scoring**: Total bytes of code, including both HTML and CSS.
 
 
 ## Web Golf - Leftpad Division
