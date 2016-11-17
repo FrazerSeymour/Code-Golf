@@ -1,0 +1,30 @@
+Calculus I
+Compilers
+Data Structures
+Discrete Structures in Computing I
+Discrete Structures in Computing II
+Human Computer Interaction
+Intermediate Programming
+Introduction to Co-operative Education
+Introduction to Programming
+Modelling of Computer Systems
+Object Oriented Programming
+Operating Systems I
+Software Design I
+Software Design II
+Software Design III
+Software Design IV
+Software Design V
+Software Engineering
+Software Reliability and Testing
+Software Systems Development and Integration
+Statistics I
+Structure and Application of Microcomputers
+System Analysis and Design in Applications
+The Analysis and Design of Computer Algorithms
+Theory of Computation
+Work Term 1
+Work Term 2
+Work Term 3
+Work Term 4
+Work Term 5
