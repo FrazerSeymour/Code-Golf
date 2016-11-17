@@ -12,6 +12,7 @@
 ## Regex Golf
 
 - Write the shortest regex expression that matches everything in [List A](challenges/regex1.txt) (the required courses for CS and SENG at UofG) but not in [List B](challenges/regex2.txt) (the required courses for Studio Art at UofG).
+- Must be recognizable by `grep` - [testable online here.](https://www.online-utility.org/text/grep.jsp)
 
 **Scoring**: Total bytes of code.
 
