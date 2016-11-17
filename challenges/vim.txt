@@ -1,14 +1,14 @@
 accomodate
 acheive
 accross
-agressive, agression
+agressive
 apparantly
 appearence
 arguement
 assasination
 basicly
 begining
-beleive, belive
+beleive
 bizzare
 buisness
 calender
@@ -44,7 +44,7 @@ glamourous
 goverment
 gaurd
 happend
-harrass, harrassment
+harrass
 honourary
 humourous
 idiosyncracy
