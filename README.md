@@ -5,7 +5,7 @@
 - Given a bunch of strings in `argv`, store them sorted alphabetically in an array.
 
 **Scoring**: Total bytes of code.
-**Leader**: Nick B., 115 bytes.
+**Leader**: Nick B., 103 bytes.
 
 ## Code Golf - Open Division (Any language, standard libraries)
 
