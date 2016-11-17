@@ -5,9 +5,20 @@
 - Given a bunch of strings in `argv`, store them sorted alphabetically in an array.
 
 **Scoring**: Total bytes of code.
+
 **Leader**: Nick B., 103 bytes.
 
 ## Code Golf - Open Division (Any language, standard libraries)
+
+- Draw a balanced tree of arbitrary depth. E.g., for 3:
+
+```
+   /\
+ /\  /\
+/\/\/\/\
+```
+
+**Scoring** Total bytes of code.
 
 
 ## Regex Golf
@@ -16,6 +27,8 @@
 - Must be recognizable by `grep` - [testable online here.](https://www.online-utility.org/text/grep.jsp)
 
 **Scoring**: Total bytes of code.
+
+**Leader**: Evan B., 50 bytes.
 
 
 ## Vim Golf
