@@ -78,3 +78,5 @@
 - Solve the current [CIS 1500 Assignment 3](challenges/a3.md)!
 
 **Scoring:** Total bytes of code.
+
+**Leader:** Ace P., 2004 bytes.
