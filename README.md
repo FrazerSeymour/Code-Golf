@@ -30,7 +30,7 @@
 
 **Scoring**: Total bytes of code.
 
-**Leader**: Evan B., 50 bytes.
+**Leader**: Nick B., 27 Bytes
 
 
 ## Vim Golf
