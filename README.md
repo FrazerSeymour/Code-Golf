@@ -20,7 +20,7 @@
 
 **Scoring** Total bytes of code.
 
-**Leader**: Jason A., 95 bytes
+**Leader**: Jason A., 90 bytes
 
 
 ## Regex Golf
@@ -74,6 +74,8 @@
 
 **Scoring**: Total bytes of code.
 
+**Leader:** Evan B., 515 Bytes
+
 
 ## CIS 1500 A3
 
@@ -81,4 +83,4 @@
 
 **Scoring:** Total bytes of code.
 
-**Leader:** Ace P., 1993 bytes.
+**Leader:** Nick B., 967 bytes.
