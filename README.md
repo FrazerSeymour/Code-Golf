@@ -20,7 +20,7 @@
 
 **Scoring** Total bytes of code.
 
-**Leader**: Nick B, 106 bytes
+**Leader**: Jason A., 95 bytes
 
 
 ## Regex Golf
