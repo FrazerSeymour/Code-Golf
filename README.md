@@ -20,7 +20,7 @@
 
 **Scoring** Total bytes of code.
 
-**Leader**: Dylan C., 88 Bytes
+**Leader**: Nick B, 112 bytes
 
 
 ## Regex Golf
@@ -81,4 +81,4 @@
 
 **Scoring:** Total bytes of code.
 
-**Leader:** Ace P., 2004 bytes.
+**Leader:** Ace P., 1993 bytes.
