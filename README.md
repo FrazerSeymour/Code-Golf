@@ -83,4 +83,4 @@
 
 **Scoring:** Total bytes of code.
 
-**Leader:** Nick B., 967 bytes.
+**Leader:** Ace P., 966 bytes.
